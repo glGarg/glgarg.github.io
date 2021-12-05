@@ -52,7 +52,7 @@ provided by human written examples.</div>
 
 <div style="text-align: justify">Ray-March demos using C++, GLSL and OpenGL.</div>
 <br>
-<center><img src="images/4Kb.png"/></center>
+<center><img src="images/4Kb.PNG"/></center>
 <br>
 
 ---
