@@ -72,7 +72,7 @@ provided by human written examples.</div>
 
 <div style="text-align: justify">Outside of work, I also have a great passion for sketching. Below are.</div>
 <br>
-<center><img src="images/Sketches.png"/></center>
+<center><img src="images/Sketches.PNG"/></center>
 <br>
 
 ---
