@@ -31,7 +31,7 @@ experiments show that PerfLens can suggest performance improvements with 90% acc
 tools like Azure-CLI, Powershell and Azure SDKs. It makes use of product telemetry, documentation and to generate examples for the most popular commands and parameter sets. For Azure-CLI, Aladdin is able to provide coverage for 99% of the commands as opposed to the current in-product coverage of 49%
 provided by human written examples.</div>
 <br>
-<center><img src="images/Aladdin.png"></center>
+<center><img src="images/Aladdin.PNG"></center>
 <br>
 
 ---
