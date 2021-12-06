@@ -1,4 +1,4 @@
-## Patents and Pulications
+## <b><i>Patents and Pulications</b></i>
 ---
 <u>Spandan Garg</u>, Paul Harrington, Roshanak Zilouchian Moghaddam, Chen Wu and Neel Sundaresan. 2021. Pattern-based Bottleneck Detection and Patch Generation (Patent filed).
 
@@ -8,42 +8,43 @@
 
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Yevhen Mohylevskyy and Jason Shaver. 2019. Command-line Script Generation with Relevance Search (Patent filed).
 
-Roshanak Zilouchian Moghaddam, <u>Spandan Garg</u>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values (Patent filed).
+<u>Roshanak Zilouchian Moghaddam</u>, <u>Spandan Garg</u>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values (Patent filed).
 <br>
 
 
-## AI For Software Engineering
+## <i><b>AI For Software Engineering</b></i>
 ---
-### Performance Bottleneck Detection and Patch Generation using Transformers (Ongoing)
+### <b>Performance Bottleneck Detection and Patch Generation using Transformers</b> (Ongoing)
 
 <div style="text-align: justify">
 <b>Bottleneck detection in ETW Traces</b>: Developed a bottleneck detection approach for .NET applications by identifying
 patterns of function calls corresponding to known performance issues among call-stacks in profiler traces, which has been integrated into the Azure Application Insights Profiler and was demoed at VSLive! Conference (2021).
 <br>
-<b>Patch Generation</b>: Finetuned Facebook's BART model to generate patches to fix performance issues. Further details cannot be revealed due to NDA.</div>
+<b>Patch Generation</b>: Finetuned Facebook's BART model to generate patches to fix performance issues. Further details cannot be disclosed due to NDA.</div>
 <br>
 
 ---
 
-### PerfLens: A Data-Driven Performance Bug Detection and Fix Platform
+### <b>PerfLens: A Data-Driven Performance Bug Detection and Fix Platform</b>
 
 <div style="text-align: justify">PerfLens is a data-driven approach to software performance improvement in C#. We first compile a large dataset of hundreds of performance improvements made in open source
-projects. We then leverage this data to build a tool called PerfLens for performance improvement recommendations via code search. PerfLens indexes the performance improvements, takes a codebase as an input and searches a pool of performance improvements for similar code. We show that
-when our system is further augmented with profiler data information our recommendations are more accurate. Our
-experiments show that PerfLens can suggest performance improvements with 90% accuracy when profiler data is available and 55% accuracy when it analyzes source code only.</div>
+projects. We then leverage this data to build a tool called PerfLens for performance improvement recommendations via code search. PerfLens indexes the performance improvements, takes a codebase as an input and searches a pool of performance improvements for similar code. We show that when our system is further augmented with profiler data information our recommendations are more accurate. Our experiments show that PerfLens can suggest performance improvements with 90% accuracy when profiler data is available and 55% accuracy when it analyzes source code only.</div>
 
 <center><img src="images/PerfLensSuggestions.PNG"/></center>
 
 ---
-### Genie: Human Language to Azure CLI Snippets
+### <b>Genie: Human Language to Azure CLI Snippets</b>
 
-<div style="text-align: justify"> Genie translates human language queries to snippets of Azure CLI commands. We first create an index of common snippets by mining snippets of successful commands from CLI's usage telemetry. Given a human language query, we use FastText word embeddings and Azure documentation to resolve out of vocab (OoV) words, fix typos, perform query expansion, etc. We leverage the hierarchical nature of CLI modules to score the query against the different modules, command groups and commands in CLI and then aggregating the scores to produce a ranked list of snippets.
+<div style="text-align: justify"> Genie is a AI tool that translates human language queries to snippets of Azure CLI commands. We first create an index of common snippets by mining snippets of successful commands from CLI's usage telemetry. Given a human language query, we use FastText word embeddings and Azure documentation to resolve out of vocab (OoV) words, fix typos, perform query expansion, etc. We then leverage the hierarchical nature of CLI modules to score the query against the different modules, command groups and commands in CLI and produce a ranked list of snippets based on the aggregated scores of their component commands. This was demoed at the Microsoft Azure+AI Conference (2019).
 </div>
 
 <center><img src="images/Genie.PNG"/></center>
 
+VS Code Extension Demo:
+<center><img src="images/GenieDemo.gif"/></center>
+
 ---
-### Aladdin: Artificial Example Generation for Azure CLI
+### <b>Aladdin: Artificial Example Generation for Azure CLI</b>
 
 <div style="text-align: justify">Aladdin is an AI framework to automate the creation of usage examples for reference docs of command line
 tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemetry, documentation and a Random Forest model to generate examples for the most popular commands and parameter sets. For Azure-CLI, Aladdin is able to provide coverage for 99% of the commands as opposed to the current in-product coverage of 46% provided by human written examples.</div>
@@ -52,9 +53,9 @@ tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemet
 <br>
 
 
-## Hobbies & Side-Projects
+## <b><i>Hobbies & Side-Projects</b></i>
 ---
-### Voxels Game Engine
+### <b>Voxels Game Engine</b>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/glGarg/Voxels)
 
 <div style="text-align: justify">A game engine I wrote from scratch using C++ and OpenGL.</div>
@@ -63,7 +64,7 @@ tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemet
 <br>
 
 ---
-### 4Kb Demo Scenes
+### <b>4Kb Demo Scenes</b>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/glGarg/4Kb-Demo-Scenes)
 
@@ -73,17 +74,17 @@ tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemet
 <br>
 
 ---
-### Straights Card Game
+### <b>Straights Card Game</b>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/glGarg/Straights)
 
-<div style="text-align: justify">A simple card game I wrote in C++ using gtkmm for the GUI and GStreamer for the background music.</div>
+<div style="text-align: justify">A card game I wrote in C++ using gtkmm for the GUI and GStreamer for the background music.</div>
 <br>
 <center><img src="images/Straights.png"/></center>
 <br>
 
 ---
-### Sketching
+### <b>Sketching</b>
 
 [![View My Artwork](https://img.shields.io/badge/Tumblr-View_My_Artwork-grey?logo=tumblr&labelColor=blue)](https://spandangarg.tumblr.com)
 
