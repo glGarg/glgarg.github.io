@@ -1,4 +1,4 @@
-## <b><i>Patents and Pulications</b></i>
+## <b><i>Patents and Publications</i></b>
 ---
 <u>Spandan Garg</u>, Paul Harrington, Roshanak Zilouchian Moghaddam, Chen Wu and Neel Sundaresan. 2021. Pattern-based Bottleneck Detection and Patch Generation (Patent filed).
 
@@ -8,7 +8,7 @@
 
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Yevhen Mohylevskyy and Jason Shaver. 2019. Command-line Script Generation with Relevance Search (Patent filed).
 
-<u>Roshanak Zilouchian Moghaddam</u>, <u>Spandan Garg</u>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values (Patent filed).
+<u>Spandan Garg</u>, <u>Roshanak Zilouchian Moghaddam</u>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values (Patent filed).
 <br>
 
 
@@ -53,7 +53,7 @@ tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemet
 <br>
 
 
-## <b><i>Hobbies & Side-Projects</b></i>
+## <b><i>Hobbies & Side-Projects</i></b>
 ---
 ### <b>Voxels Game Engine</b>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/glGarg/Voxels)
