@@ -1,6 +1,6 @@
 ## <b><i>Patents and Publications</i></b>
 ---
-<u>Spandan Garg</u>, Paul Harrington, Roshanak Zilouchian Moghaddam, Chen Wu and Neel Sundaresan. 2021. Pattern-based Bottleneck Detection and Patch Generation (Patent filed).
+<u>Spandan Garg</u>, Paul Harrington, Roshanak Zilouchian Moghaddam, Chen Wu and Neel Sundaresan. 2021. Profiler Trace Bottleneck Detection and Patch Generation (Patent filed).
 
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Chen Wu, and Neel Sundaresan. 2021. PerfLens: A Data-driven Performance Bug Detection and Fix Platform. In <i>Proceedings of the 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis (SOAP’2021)</i>.
 
