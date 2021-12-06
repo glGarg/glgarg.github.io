@@ -18,7 +18,7 @@
 
 <div style="text-align: justify">
 <b>Bottleneck detection in ETW Traces</b>: Developed a bottleneck detection approach for .NET applications by identifying
-patterns of function calls corresponding to known performance issues among call-stacks in profiler traces, which has been integrated into the Azure Application Insights Profiler and was demoed at VSLive! Conference (2021).
+patterns of function calls corresponding to known performance issues among call-stacks in profiler traces. This has been integrated into the Azure Application Insights Profiler and was also demoed at VSLive! Conference (2021) keynote. <a href="https://github.com/microsoft/optimization-insights">Sign up</a> for our private preview!
 <br>
 <b>Patch Generation</b>: Finetuned Facebook's BART model to generate patches to fix performance issues. Further details cannot be disclosed due to NDA.</div>
 <br>
