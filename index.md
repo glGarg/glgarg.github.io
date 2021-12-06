@@ -56,7 +56,8 @@ tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemet
 ## <b><i>Hobbies & Side-Projects</i></b>
 ---
 ### <b>Voxels Game Engine</b>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/glGarg/Voxels)
+[![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/Voxels)
+[![View Demo](https://img.shields.io/badge/YouTube-Watch_Demo-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=Hn5ZP1zGmSA&list=PLWKNAuzDDovlArNzZ5ce_5a7hCr9DGIqS&index=2)
 
 <div style="text-align: justify">A game engine I wrote from scratch using C++ and OpenGL.</div>
 <br>
@@ -66,7 +67,8 @@ tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemet
 ---
 ### <b>4Kb Demo Scenes</b>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/glGarg/4Kb-Demo-Scenes)
+[![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/4Kb-Demo-Scenes)
+[![View Demo](https://img.shields.io/badge/YouTube-Watch_Demo-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=w7AOLJrzUCw&list=PLWKNAuzDDovlArNzZ5ce_5a7hCr9DGIqS&index=3)
 
 <div style="text-align: justify">Ray-Marching demos I wrote using C++, GLSL and OpenGL.</div>
 <br>
@@ -76,7 +78,7 @@ tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemet
 ---
 ### <b>Straights Card Game</b>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/glGarg/Straights)
+[![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/Straights)
 
 <div style="text-align: justify">A card game I wrote in C++ using gtkmm for the GUI and GStreamer for the background music.</div>
 <br>
@@ -86,9 +88,9 @@ tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemet
 ---
 ### <b>Sketching</b>
 
-[![View My Artwork](https://img.shields.io/badge/Tumblr-View_My_Artwork-grey?logo=tumblr&labelColor=blue)](https://spandangarg.tumblr.com)
+[![View My Artwork](https://img.shields.io/badge/Tumblr-View_Artwork-grey?logo=tumblr&labelColor=blue)](https://spandangarg.tumblr.com)
 
-<div style="text-align: justify">Outside of work, I also have a great passion for art, particularly sketching. Below are a few of my sketches that I felt turned out well. Please visit my tumblr to view my other works :)</div>
+<div style="text-align: justify">Outside of work, I also have a great passion for art, particularly sketching. Below are a few of my sketches that I felt turned out well. Please visit my Tumblr to view my other works! :)</div>
 <br>
 <center><img src="images/Sketches.PNG"/></center>
 <br>
