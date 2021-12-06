@@ -9,7 +9,7 @@
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Yevhen Mohylevskyy and Jason Shaver. 2019. Command-line Script Generation with Relevance Search (Patent filed).
 
 Roshanak Zilouchian Moghaddam, <u>Spandan Garg</u>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values (Patent filed).
-<br></br>
+<br>
 
 
 ## AI For Software Engineering
@@ -19,7 +19,7 @@ Roshanak Zilouchian Moghaddam, <u>Spandan Garg</u>, Jason Shaver and Neel Sundar
 <div style="text-align: justify">
 <b>Bottleneck detection in ETW Traces</b>: Developed a bottleneck detection approach for .NET applications by identifying
 patterns of function calls corresponding to known performance issues among call-stacks in profiler traces, which has been integrated into the Azure Application Insights Profiler and was demoed at VSLive! Conference (2021).
-<br></br>
+<br>
 <b>Patch Generation</b>: Finetuned Facebook's BART model to generate patches to fix performance issues. Further details cannot be revealed due to NDA.</div>
 <br>
 
