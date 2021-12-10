@@ -1,4 +1,4 @@
-# <b>Portfolio</i></b>
+# <b>Portfolio</b>
 
 
 ## <b><i>Patents and Publications</i></b>
