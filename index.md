@@ -36,7 +36,7 @@ patterns of function calls corresponding to known performance issues among call-
 ---
 ### <b>Genie: Human Language to Azure CLI Snippets</b>
 
-<div style="text-align: justify"> Genie is a AI tool that translates human language queries to snippets of Azure CLI commands. We first create an index of common snippets by mining snippets of successful commands from CLI's usage telemetry. Given a human language query, we use FastText word embeddings and Azure documentation to resolve out of vocab (OoV) words, fix typos, perform query expansion, etc. We then leverage the hierarchical nature of CLI modules to score the query against the different modules, command groups and commands in CLI and produce a ranked list of snippets based on the aggregated scores of their component commands. This was demoed at the Microsoft Azure+AI Conference (2019).
+<div style="text-align: justify"> Genie is a AI tool that translates human language queries to snippets of Azure CLI commands. We first create an index of common snippets by splitting the telemetry into usage sessions and mining frequent sequences of successful commands. Given a human language query, we use FastText word embeddings and Azure documentation to resolve out of vocab (OoV) words, fix typos, perform query expansion, etc. We then leverage the hierarchical nature of CLI modules to score the query against the different modules, command groups and commands in CLI and produce a ranked list of snippets based on the aggregated scores of their component commands. This approach was demoed at the Microsoft Azure+AI Conference (2019).
 </div>
 
 <center><img src="images/Genie.PNG"/></center>
@@ -47,8 +47,7 @@ VS Code Extension Demo:
 ---
 ### <b>Aladdin: Artificial Example Generation for Azure CLI</b>
 
-<div style="text-align: justify">Aladdin is an AI framework to automate the creation of usage examples for reference docs of command line
-tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemetry, documentation and a Random Forest model to generate examples for the most popular commands and parameter sets. For Azure-CLI, Aladdin is able to provide coverage for 99% of the commands as opposed to the current in-product coverage of 46% provided by human written examples.</div>
+<div style="text-align: justify">Aladdin is an AI framework to automate the creation of usage examples for reference docs of command line tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemetry to get the most popular parameter sets for commands that are missing examples and use a Random Forest model (trained on Azure documentation) to select parameter values that reflect the underlying type (IP Address, File path, GUID, etc.) of a parameter during example generation. For Azure-CLI, Aladdin is able to provide coverage for 99% of the commands as opposed to the current in-product coverage of 46% provided by human written examples.</div>
 <br>
 <center><img src="images/Aladdin.PNG"></center>
 <br>
