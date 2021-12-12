@@ -80,7 +80,7 @@ VS Code Extension Demo:
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/Straights)
 
-<div style="text-align: justify">A card game I wrote in C++ using gtkmm for the GUI and GStreamer for the background music.</div>
+<div style="text-align: justify">A card game written in C++ using gtkmm for the GUI and GStreamer for the background music.</div>
 <br>
 <center><img src="images/Straights.png"/></center>
 <br>
