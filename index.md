@@ -1,5 +1,3 @@
-<style type="text/css">body{background-color: #222222;}</style>
-
 # <b>Portfolio</b>
 
 ## <b><i>Patents and Publications</i></b>
