@@ -53,7 +53,7 @@ patterns of function calls corresponding to known performance issues among call-
 VS Code Extension Demo:
 <center><img src="images/GenieDemo.gif"/></center>
 
-<br></br>
+<br><br>
 ## <b><i>Hobbies & Side-Projects</i></b>
 ---
 ### <b>Voxels Game Engine</b>
