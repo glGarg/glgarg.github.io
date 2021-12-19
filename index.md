@@ -89,7 +89,7 @@ VS Code Extension Demo:
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/OverworldRPG)
 
-<div style="text-align: justify">A 2D game engine written using javascript and HTML.</div>
+<div style="text-align: justify">A 2D game engine I wrote using javascript and HTML.</div>
 <br>
 <center><img src="images/prototype.gif"/></center>
 <br>
