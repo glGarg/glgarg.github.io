@@ -58,7 +58,7 @@ VS Code Extension Demo:
 ---
 ### <b>Voxels Game Engine</b>
 [![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/Voxels)
-[![View Demo](https://img.shields.io/badge/YouTube-Watch_Demo-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=Hn5ZP1zGmSA&list=PLWKNAuzDDovlArNzZ5ce_5a7hCr9DGIqS&index=2)
+[![View Demo](https://img.shields.io/badge/YouTube-Watch_Demo-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=Dg3rni3DGqM&list=PLWKNAuzDDovlArNzZ5ce_5a7hCr9DGIqS&index=1&ab_channel=SpandanGarg)
 
 <div style="text-align: justify">A game engine I wrote from scratch using C++ and OpenGL.</div>
 <br>
