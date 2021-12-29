@@ -71,7 +71,7 @@ VS Code Extension Demo:
 [![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/4Kb-Demo-Scenes)
 [![View Demo](https://img.shields.io/badge/YouTube-Watch_Demo-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=w7AOLJrzUCw&list=PLWKNAuzDDovlArNzZ5ce_5a7hCr9DGIqS&index=3)
 
-<div style="text-align: justify">Ray-Marching demos I wrote using C++, OpenGL and GLSL.</div>
+<div style="text-align: justify"><a href="https://developer.nvidia.com/gpugems/gpugems2/part-i-geometric-complexity/chapter-8-pixel-displacement-mapping-distance-functions">Ray-Marching</a> demos I wrote using C++, OpenGL and GLSL.</div>
 <br>
 <center><img src="images/4Kb.PNG"/></center>
 <br>
@@ -81,7 +81,7 @@ VS Code Extension Demo:
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/Straights)
 
-<div style="text-align: justify">A multi-player card game written in C++ using gtkmm for the GUI and GStreamer for the background music.</div>
+<div style="text-align: justify">A multi-player card game written in C++ using gtkmm for GUI and GStreamer for background music.</div>
 <br>
 <center><img src="images/Straights.png"/></center>
 <br>
