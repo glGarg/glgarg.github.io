@@ -87,7 +87,7 @@ VS Code Extension Demo:
 <br>
 
 ---
-### <b>Overworld 2D RPG Game Engine</b>
+### <b>2D Overworld RPG Game Engine</b>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/OverworldRPG)
 
