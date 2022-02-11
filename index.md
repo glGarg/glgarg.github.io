@@ -1,6 +1,7 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
-Feb 10, 2022 - Aladdin Azure CLI work submitted to <b>KDD'2022</b> Applied Science Track!
+Feb 10, 2022:
+ Aladdin Azure CLI work submitted to <b>KDD'22</b> Applied Science Track!
 "<b>Generating Examples For CLI Usage - Can Transformers Help?</b>" (<a href="https://docs.google.com/viewer?url=https://github.com/glGarg/glgarg.github.io/raw/main/pdf/GeneratingExamplesFromCLIUsageKDDSubmission2022.pdf">Preprint</a>)
 
 ## <b><i>Patents and Publications</i></b>
