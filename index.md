@@ -31,23 +31,23 @@ patterns of function calls corresponding to known performance issues among call-
 
 ---
 
-### <b>PerfLens: A Data-Driven Performance Bug Detection and Fix Platform</b>
+### <b>PerfLens: A Data-Driven Performance Bug Detection and Fix Platform (<a href="https://dl.acm.org/doi/10.1145/3460946.3464318">Paper</a>)</b>
 
 <div style="text-align: justify">PerfLens is a data-driven approach to software performance improvement in C#. We first compile a large dataset of hundreds of performance improvements made in open source projects. We then leverage this data to build a tool called PerfLens for performance improvement recommendations via code search. PerfLens indexes the performance improvements, takes a codebase as an input and searches a pool of performance improvements for similar code. We show that when our system is further augmented with profiler data information our recommendations are more accurate. Our experiments show that PerfLens can suggest performance improvements with 90% accuracy when profiler data is available and 55% accuracy when it analyzes source code only.</div>
 
 <center><img src="images/PerfLensSuggestions.PNG"/></center>
 
 ---
-### <b>Aladdin: Artificial Example Generation for Azure CLI</b>
+### <b>Aladdin: Artificial Example Generation for Azure CLI (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/GeneratingExamplesFromCLIUsage.pdf">Preprint</a>, <a href="https://uspto.report/patent/app/20210342654">Patent</a>)</b>
 
-<div style="text-align: justify">Aladdin is an AI framework to automate the creation of usage examples for reference docs of command line tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemetry to get the most popular parameter sets for commands that are missing examples and use a Random Forest model (trained on Azure documentation) to select parameter values that reflect the underlying type (IP Address, File path, GUID, etc.) of a parameter during example generation. For Azure-CLI, Aladdin is able to provide coverage for 99% of the commands as opposed to the current in-product coverage of 46% provided by human written examples.</div>
+<div style="text-align: justify">Aladdin is an AI framework to automate the creation of usage examples for reference docs of command line tools like Azure-CLI, Powershell and Azure SDKs. We leverage the product telemetry to get the most popular parameter sets for commands that are missing examples and use a Random Forest model (trained on Azure documentation) to select parameter values that reflect the underlying type (IP Address, File path, GUID, etc.) of a parameter during example generation. For Azure-CLI, Aladdin is able to provide coverage for 99% of the commands as opposed to the current in-product coverage of 55% provided by human written examples.</div>
 <br>
 <center><img src="images/Aladdin.PNG"></center>
 <br>
 
 
 ---
-### <b>Genie: Human Language to Azure CLI Snippets</b>
+### <b>Genie: Human Language to Azure CLI Snippets (<a href="https://uspto.report/patent/app/20210342357">Patent</a>)</b>
 
 <div style="text-align: justify"> Genie is a AI tool that translates human language queries to snippets of Azure CLI commands. We first create an index of common snippets by splitting the telemetry into usage sessions and mining frequent sequences of successful commands. Given a human language query, we use FastText word embeddings and Azure documentation to resolve out of vocab (OoV) words, fix typos, perform query expansion, etc. We then leverage the hierarchical nature of CLI modules to score the query against the different modules, command groups and commands in CLI and produce a ranked list of snippets based on the aggregated scores of their component commands. This approach was demoed at the Microsoft Azure+AI Conference (2019).
 </div>
