@@ -81,16 +81,6 @@ VS Code Extension Demo:
 <br>
 
 ---
-### <b>Straights Card Game</b>
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/Straights)
-
-<div style="text-align: justify">A multi-player card game written in C++ using gtkmm for GUI and GStreamer for background music.</div>
-<br>
-<center><img src="images/Straights.png"/></center>
-<br>
-
----
 ### <b>2D Overworld RPG Game Engine</b>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue?logo=GitHub)](https://github.com/glGarg/OverworldRPG)
