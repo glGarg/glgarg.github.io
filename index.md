@@ -1,5 +1,9 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
+Mar 3, 2022:
+ Patch Generation work to be submitted to <b>ESEC/FSE'22</b> Research Track!
+"<b>DeepPERF: A Deep Learning-Based Approach For Improving Software Performance</b>" (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/PerformancePatchGenPaperPreprint.pdf">Preprint</a>)
+
 Feb 10, 2022:
  Aladdin Azure CLI work submitted to <b>KDD'22</b> Applied Science Track!
 "<b>Generating Examples For CLI Usage - Can Transformers Help?</b>" (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/GeneratingExamplesFromCLIUsage.pdf">Preprint</a>)
@@ -18,16 +22,13 @@ Feb 10, 2022:
 <br>
 
 ## <i><b>AI For Software Engineering</b></i>
+
 ---
-### <b>Performance Bottleneck Detection and Patch Generation using Transformers</b> (Ongoing)
 
-<div style="text-align: justify">
-<b>Bottleneck detection in ETW Traces</b>: Developed a bottleneck detection approach for .NET applications by identifying
-patterns of function calls corresponding to known performance issues among call-stacks in profiler traces. This has been integrated into the Azure Application Insights Profiler and was also demoed at VSLive! Conference (2021) keynote. <a href="https://github.com/microsoft/optimization-insights">Sign up</a> for our private preview!
+### <b>DeepPERF: A Deep Learning-Based Approach For Improving Software Performance (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/PerformancePatchGenPaperPreprint.pdf">Preprint</a>)</b>
 
-<br>
-<b>Patch Generation</b>: Finetuned Facebook's BART model to generate patches to fix performance issues. Further details cannot be disclosed due to NDA.</div>
-<br>
+<div style="text-align: justify">Improving software performance is an important yet challenging part of the software development cycle. The wealth of open source software development artifacts available online creates a great opportunity to learn the patterns of performance improvements from data. In this paper, we present DeepPERF, which is a data-driven approach to software performance improvement using large transformer models. We pretrain a transformer model on English and Source code corpora and then finetune it on the task of generating performance improvement patches for C# applications. We collect a test dataset of 132 examples with a wide variety of performance improvement patches made by C# developers to open source repos on GitHub. In our evaluation, we find that our best model is able to generate the same performance improvement suggestion as the developer fix in ~60% of the cases, getting ~36% of them verbatim. Additionally, we evaluate DeepPERF on 50 open source C# repositories on GitHub with both benchmark and unit tests and find that our model is able to suggest valid performance improvements that can improve both CPU usage and Memory allocations. So far we've submitted 17 pull-requests with 26 different performance optimizations and 6 of these PRs have already been approved by the project owners.</div>
+
 
 ---
 
@@ -36,6 +37,13 @@ patterns of function calls corresponding to known performance issues among call-
 <div style="text-align: justify">PerfLens is a data-driven approach to software performance improvement in C#. We first compile a large dataset of hundreds of performance improvements made in open source projects. We then leverage this data to build a tool called PerfLens for performance improvement recommendations via code search. PerfLens indexes the performance improvements, takes a codebase as an input and searches a pool of performance improvements for similar code. We show that when our system is further augmented with profiler data information our recommendations are more accurate. Our experiments show that PerfLens can suggest performance improvements with 90% accuracy when profiler data is available and 55% accuracy when it analyzes source code only.</div>
 
 <center><img src="images/PerfLensSuggestions.PNG"/></center>
+
+---
+### <b>Optimization Insights</b> (Ongoing)
+
+<div style="text-align: justify">
+<b>Bottleneck detection in ETW Traces</b>: Developed a bottleneck detection approach for .NET applications by identifying
+patterns of function calls corresponding to known performance issues among call-stacks in profiler traces. This has been integrated into the Azure Application Insights Profiler and was also demoed at VSLive! Conference (2021) keynote. <a href="https://github.com/microsoft/optimization-insights">Sign up</a> for our private preview!
 
 ---
 ### <b>Aladdin: Artificial Example Generation for Azure CLI (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/GeneratingExamplesFromCLIUsage.pdf">Preprint</a>, <a href="https://uspto.report/patent/app/20210342654">Patent</a>)</b>
