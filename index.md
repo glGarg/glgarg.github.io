@@ -1,7 +1,7 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
 Mar 3, 2022:
- Patch Generation work to be submitted to <b>ESEC/FSE'22</b> Research Track!
+ Performance Patch Generation work to be submitted to <b>ESEC/FSE'22</b> Research Track!
 "<b>DeepPERF: A Deep Learning-Based Approach For Improving Software Performance</b>" (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/PerformancePatchGenPaperPreprint.pdf">Preprint</a>)
 
 Feb 10, 2022:
