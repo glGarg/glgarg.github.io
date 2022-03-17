@@ -1,7 +1,7 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
 Mar 3, 2022:
- Performance Patch Generation work to be submitted to <b>ESEC/FSE'22</b> Research Track!
+ Performance Improvement Patch Generation work submitted to <b>ESEC/FSE'22</b> Research Track!
 "<b>DeepPERF: A Deep Learning-Based Approach For Improving Software Performance</b>" (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/PerformancePatchGenPaperPreprint.pdf">Preprint</a>)
 
 Feb 10, 2022:
@@ -27,7 +27,7 @@ Feb 10, 2022:
 
 ### <b>DeepPERF: A Deep Learning-Based Approach For Improving Software Performance (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/PerformancePatchGenPaperPreprint.pdf">Preprint</a>)</b>
 
-<div style="text-align: justify">Improving software performance is an important yet challenging part of the software development cycle. Today, the majority of performance inefficiencies are identified and patched by performance experts. Recent advancements in deep learning approaches and the wide-spread availability of open source data creates a great opportunity to automate the identification and patching of performance problems. In this paper, we present DeepPERF, a transformer-based approach to suggest performance improvements for C# applications. We pretrain DeepPERF on English and Source code corpora and followed by finetuning for the task of generating performance improvement patches for C# applications. Our evaluation shows that our model can generate the same performance improvement suggestion as the developer fix in more than 53% of the cases, getting roughly 34% of them verbatim in our expert-verified dataset of performance changes made by C# developers. Additionally, we evaluate DeepPERF on 50 open source C# repositories on GitHub using both benchmark and unit tests and find that our model is able to suggest valid performance improvements that can improve both CPU usage and Memory allocations. So far we've submitted 19 pull-requests with 28 different performance optimizations and 9 of these PRs have been approved by the project owners. </div>
+<div style="text-align: justify">Improving software performance is an important yet challenging part of the software development cycle. Today, the majority of performance inefficiencies are identified and patched by performance experts. Recent advancements in deep learning approaches and the wide-spread availability of open source data creates a great opportunity to automate the identification and patching of performance problems. In this paper, we present DeepPERF, a transformer-based approach to suggest performance improvements for C# applications. We pretrain DeepPERF on English and Source code corpora and followed by finetuning for the task of generating performance improvement patches for C# applications. Our evaluation shows that our model can generate the same performance improvement suggestion as the developer fix in more than 53% of the cases, getting roughly 34% of them verbatim in our expert-verified dataset of performance changes made by real C# developers. Additionally, we evaluate DeepPERF on 50 open source C# repositories on GitHub using both benchmark and unit tests and find that our model is able to suggest valid performance improvements that can improve both CPU usage and Memory allocations. So far we've submitted 19 pull-requests with 28 different performance optimizations and 9 of these PRs have been approved by the project owners. </div>
 
 
 ---
