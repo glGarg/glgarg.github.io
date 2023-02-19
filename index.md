@@ -19,7 +19,7 @@ Roshanak Zilouchian Moghaddam<sup>\*</sup>, <u>Spandan Garg</u><sup>\*</sup>, Co
 
 <u>Spandan Garg</u>, <u>Roshanak Zilouchian Moghaddam</u>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values. U.S. Patent Application 20210342654, Filed April 29th., 2020. Patent Pending.
 
-<sub>\* Equal Contribution</sup>
+<sub>\* Equal Contribution</sub>
 <br>
 
 ## <i><b>AI For Software Engineering</b></i>
