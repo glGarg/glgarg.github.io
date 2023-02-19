@@ -1,18 +1,17 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
-Mar 3, 2022:
- Performance Improvement Patch Generation work submitted to <b>ESEC/FSE'22</b> Research Track!
-"<b>DeepPERF: A Deep Learning-Based Approach For Improving Software Performance</b>" (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/PerformancePatchGenPaperPreprint.pdf">Preprint</a>)
-
-Feb 10, 2022:
- Aladdin Azure CLI work submitted to <b>KDD'22</b> Applied Science Track!
-"<b>Generating Examples For CLI Usage - Can Transformers Help?</b>" (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/GeneratingExamplesFromCLIUsage.pdf">Preprint</a>)
+Jan 26, 2023:
+ RAPGen work submitted to <b>ICML'23</b> Research Track! "<b>RAPGen: An Approach for Detecting and Fixing Code Inefficiencies in Zero-Shot</b>"
 
 ## <b><i>Patents and Publications</i></b>
 ---
+<u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Colin B. Clement, Neel Sundaresan and Chen Wu. 2022. <a href="https://dl.acm.org/doi/abs/10.1145/3540250.3549096">DeepDev-PERF: A Deep Learning-Based Approach For Improving Software Performance</a>. In <i>Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'2022)</i>.
+
+Roshanak Zilouchian Moghaddam<sup>\*</sup>, <u>Spandan Garg</u><sup>\*</sup>, Colin B. Clement<sup>\*</sup>, Yevhen Mohylevskyy and Neel Sundaresan. 2022. <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3549983">Generating Examples from CLI Usage: Can Transformers Help?</a>. In <i>Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2022)</i>.
+
 <u>Spandan Garg</u>, Paul Harrington, Roshanak Zilouchian Moghaddam, Chen Wu and Neel Sundaresan. 2021. System and Method For Identifying Performance Bottlenecks. Filed November 12th., 2021. Patent Pending.
 
-<u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Chen Wu, and Neel Sundaresan. 2021. PerfLens: A Data-driven Performance Bug Detection and Fix Platform. In <i>Proceedings of the 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis (SOAP’2021)</i>.
+<u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Chen Wu, and Neel Sundaresan. 2021. <a href="https://dl.acm.org/doi/10.1145/3460946.3464318">PerfLens: A Data-driven Performance Bug Detection and Fix Platform</a>. In <i>Proceedings of the 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis (SOAP’2021)</i>.
 
 <u>Spandan Garg</u>, Paul Harrington, Roshanak Zilouchian Moghaddam, and Chen Wu. 2021. Performance Bug Detection and Code Recommendation. Filed March 10th., 2021. Patent Pending.
 
@@ -21,11 +20,13 @@ Feb 10, 2022:
 <u>Spandan Garg</u>, <u>Roshanak Zilouchian Moghaddam</u>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values. U.S. Patent Application 20210342654, Filed April 29th., 2020. Patent Pending.
 <br>
 
+<sub>\* Equal Contribution</sup>
+
 ## <i><b>AI For Software Engineering</b></i>
 
 ---
 
-### <b>DeepPERF: A Deep Learning-Based Approach For Improving Software Performance (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/PerformancePatchGenPaperPreprint.pdf">Preprint</a>)</b>
+### <b>DeepPERF: A Deep Learning-Based Approach For Improving Software Performance (<a href="https://dl.acm.org/doi/abs/10.1145/3540250.3549096">Paper</a>)</b>
 
 <div style="text-align: justify">Improving software performance is an important yet challenging part of the software development cycle. Today, the majority of performance inefficiencies are identified and patched by performance experts. Recent advancements in deep learning approaches and the wide-spread availability of open source data creates a great opportunity to automate the identification and patching of performance problems. In this paper, we present DeepPERF, a transformer-based approach to suggest performance improvements for C# applications. We pretrain DeepPERF on English and Source code corpora and followed by finetuning for the task of generating performance improvement patches for C# applications. Our evaluation shows that our model can generate the same performance improvement suggestion as the developer fix in more than 53% of the cases, getting roughly 34% of them verbatim in our expert-verified dataset of performance changes made by real C# developers. Additionally, we evaluate DeepPERF on 50 open source C# repositories on GitHub using both benchmark and unit tests and find that our model is able to suggest valid performance improvements that can improve both CPU usage and Memory allocations. So far we've submitted 19 pull-requests with 28 different performance optimizations and 9 of these PRs have been approved by the project owners. </div>
 
@@ -46,7 +47,7 @@ Feb 10, 2022:
 patterns of function calls corresponding to known performance issues among call-stacks in profiler traces. This has been integrated into the Azure Application Insights Profiler and was also demoed at VSLive! Conference (2021) keynote. <a href="https://github.com/microsoft/optimization-insights">Sign up</a> for our private preview!</div>
 
 ---
-### <b>Aladdin: Artificial Example Generation for Azure CLI (<a href="https://github.com/glGarg/glgarg.github.io/blob/main/pdf/GeneratingExamplesFromCLIUsage.pdf">Preprint</a>, <a href="https://uspto.report/patent/app/20210342654">Patent</a>)</b>
+### <b>Generating Examples from CLI Usage: Can Transformers Help? (<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3549983">Paper</a>, <a href="https://uspto.report/patent/app/20210342654">Patent</a>)</b>
 
 <div style="text-align: justify">Continuous evolution in modern software often causes documentation, tutorials, and examples to be out of sync with changing interfaces and frameworks. Relying on outdated documentation and examples can lead programs to fail or be less efficient or even less secure. In response, programmers need to regularly turn to other resources on the web such as StackOverflow for examples to guide them in writing software. We recognize that this inconvenient, error-prone, and expensive process can be improved by using machine learning applied to software usage data. In this work, we present our practical system which uses machine learning on large-scale telemetry data and documentation corpora, generating appropriate and complex examples that can be used to improve documentation. We discuss both feature-based and transformer-based machine learning approaches and demonstrate that our system achieves 100% coverage for the used functionalities in the product, providing up-to-date examples upon every release and reduces the numbers of PRs submitted by software owners writing and editing documentation by >68%. We also share valuable lessons learnt during the 3 years that our production quality system has been deployed for Azure Cloud Command Line Interface (Azure CLI).</div>
 <br>
