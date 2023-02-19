@@ -17,7 +17,7 @@ Roshanak Zilouchian Moghaddam<sup>\*</sup>, <u>Spandan Garg</u><sup>\*</sup>, Co
 
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Yevhen Mohylevskyy and Jason Shaver. 2019. Command-line Script Generation with Relevance Search. U.S. Patent Application 20210342357, Filed May 1st., 2020. Patent Pending.
 
-<u>Spandan Garg</u>, <u>Roshanak Zilouchian Moghaddam</u>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values. U.S. Patent Application 20210342654, Filed April 29th., 2020. Patent Pending.
+<u>Spandan Garg</u><sup>\*</sup>, Roshanak Zilouchian Moghaddam<sup>\*</sup>, Jason Shaver and Neel Sundaresan. 2019. Machine Generated Examples of Command-line Commands with Parameter Values. U.S. Patent Application 20210342654, Filed April 29th., 2020. Patent Pending.
 
 <sub>\* Equal Contribution</sub>
 <br>
