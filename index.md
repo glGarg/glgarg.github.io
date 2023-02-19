@@ -110,4 +110,4 @@ VS Code Extension Demo:
 <br>
 
 ---
-<center>© 2021 Spandan Garg. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2023 Spandan Garg. Powered by Jekyll and the Minimal Theme.</center>
