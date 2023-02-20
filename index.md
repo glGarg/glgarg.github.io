@@ -5,6 +5,8 @@ Jan 26, 2023:
 
 ## <b><i>Patents and Publications</i></b>
 ---
+<u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, and Neel Sundaresan. 2023. RAPGen: An Approach for Detecting and Fixing Code Inefficiencies in Zero-Shot. Filed Jan 23rd., 2023. Patent Pending.
+
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Colin B. Clement, Neel Sundaresan and Chen Wu. 2022. <a href="https://dl.acm.org/doi/abs/10.1145/3540250.3549096">DeepDev-PERF: A Deep Learning-Based Approach For Improving Software Performance</a>. In <i>Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'2022)</i>.
 
 Roshanak Zilouchian Moghaddam<sup>\*</sup>, <u>Spandan Garg</u><sup>\*</sup>, Colin B. Clement<sup>\*</sup>, Yevhen Mohylevskyy and Neel Sundaresan. 2022. <a href="https://dl.acm.org/doi/abs/10.1145/3534678.3549983">Generating Examples from CLI Usage: Can Transformers Help?</a>. In <i>Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2022)</i>.
