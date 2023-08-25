@@ -108,7 +108,7 @@ VS Code Extension Demo:
 
 [![View My Artwork](https://img.shields.io/badge/Tumblr-View_Artwork-grey?logo=tumblr&labelColor=blue)](https://allthestarsinmybackyard.tumblr.com)
 
-<div style="text-align: justify">Outside of work, I also have a great passion for art, particularly sketching. Below are a few of my sketches that I felt turned out well. Please visit my <a href="https://allthestarsinmybackyard.tumblr.com">Tumblr</a> to view my other works! :)</div>
+<div style="text-align: justify">Outside of work, I also enjoy art, particularly sketching. Below are a few of my sketches that I felt turned out well. Please visit my <a href="https://allthestarsinmybackyard.tumblr.com">Tumblr</a> to view my other works! :)</div>
 <br>
 <center><img src="images/Sketches.PNG"/></center>
 <br>
