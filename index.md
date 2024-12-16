@@ -1,7 +1,7 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
 Jan 26, 2023:
- RAPGen work submitted to <b>ICSE'25</b> SEIP Track! "<b>RAPGen: An Approach for Detecting and Fixing Code Inefficiencies in Zero-Shot</b>"
+ RAPGen work accepted at <b>ICSE'25</b> SEIP Track! "<b>RAPGen: An Approach for Detecting and Fixing Code Inefficiencies in Zero-Shot</b>"
 
 ## <b><i>Patents and Publications</i></b>
 ---
