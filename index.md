@@ -5,6 +5,8 @@ Aug 8, 2025:
 
 ## <b><i>Patents and Publications</i></b>
 ---
+Shanchao Liang, <u>Spandan Garg</u>, and Roshanak Zilouchian Moghaddam. 2025. <a href="https://arxiv.org/pdf/2506.12286">The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason</a>. In Review.
+
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam and Neel Sundaresan. 2025. Agentic Approach To Fixing Non-Functional Issues. Filed May 22nd., 2025. Patent Pending.
 
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam and Neel Sundaresan. 2025. Multi-Model Software Engineering AI Agent. Filed June 3rd., 2025. Patent Pending.
