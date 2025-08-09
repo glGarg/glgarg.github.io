@@ -7,7 +7,7 @@ Dec 15, 2024:
 ---
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam and Neel Sundaresan. 2025. Agentic Approach To Fixing Non-Functional Issues. Filed May 22nd., 2025. Patent Pending.
 
-<u>Spandan Garg</u> and Roshanak Zilouchian Moghaddam. 2025. Multi-Model Software Engineering AI Agent. Filed June 3rd., 2025. Patent Pending.
+<u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam and Neel Sundaresan. 2025. Multi-Model Software Engineering AI Agent. Filed June 3rd., 2025. Patent Pending.
 
 Dhruv Gautam, Spandan Garg, Jinu Jang, Roshanak Zilouchian Moghaddam and Neel Sundaresan. 2025. <a href="https://openreview.net/forum?id=NiNIthntx7">RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code</a>. In <i>Proceedings of the 13th International Conference on Representation Learning 2025 (ICLR'2025)</i>.
 
