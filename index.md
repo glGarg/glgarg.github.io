@@ -5,9 +5,15 @@ Dec 15, 2024:
 
 ## <b><i>Patents and Publications</i></b>
 ---
+<u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam and Neel Sundaresan. 2025. Agentic Approach To Fixing Non-Functional Issues. Filed May 22nd., 2025. Patent Pending.
+
+<u>Spandan Garg</u> and Roshanak Zilouchian Moghaddam. 2025. Multi-Model Software Engineering AI Agent. Filed June 3rd., 2025. Patent Pending.
+
 Dhruv Gautam, Spandan Garg, Jinu Jang, Roshanak Zilouchian Moghaddam and Neel Sundaresan. 2025. <a href="https://openreview.net/forum?id=NiNIthntx7">RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code</a>. In <i>Proceedings of the 13th International Conference on Representation Learning 2025 (ICLR'2025)</i>.
 
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, and Neel Sundaresan. 2025. <a href="https://arxiv.org/pdf/2306.17077">RAPGen: An Approach for Detecting and Fixing Code Inefficiencies in Zero-Shot</a>. In <i>Proceedings of the 47th International Conference on Software Engineering, Software Engineering in Practice Track (ICSE SEIP'2025)</i>.
+
+Colin Clement, Shengyu Fu, <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Dongjiang You and Neel Sundaresan. 2023. Customized Prompt Generation Service For Software Engineering Tasks. Filed June 14th., 2023. Patent Pending.
 
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam, Colin B. Clement, Neel Sundaresan and Chen Wu. 2022. <a href="https://dl.acm.org/doi/abs/10.1145/3540250.3549096">DeepDev-PERF: A Deep Learning-Based Approach For Improving Software Performance</a>. In <i>Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'2022)</i>.
 
