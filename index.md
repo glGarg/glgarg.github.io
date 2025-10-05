@@ -1,7 +1,7 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
 Aug 8, 2025:
- "<b>The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason</b>" submitted to <b>AAAI'26</b>! 
+ "<b>The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason</b>" submitted to <b>ICSE'26</b>! 
 
 ## <b><i>Patents and Publications</i></b>
 ---
