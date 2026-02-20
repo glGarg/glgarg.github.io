@@ -1,11 +1,15 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
-Aug 8, 2025:
- "<b>The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason</b>" submitted to <b>ICSE'26</b>! 
+Feb 20, 2026:
+ "<b>Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities</b>" In Review! 
 
 ## <b><i>Patents and Publications</i></b>
 ---
-Shanchao Liang, <u>Spandan Garg</u>, and Roshanak Zilouchian Moghaddam. 2025. <a href="https://arxiv.org/pdf/2506.12286">The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason</a>. In Review.
+<u>Spandan Garg</u> and Yufan Huang. 2026. <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/cngtkgvhtjjshgbmtcqnsjddkdzdhvyr.pdf">Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities</a>. In Review.
+
+<u>Spandan Garg</u>, Benjamin Steenjoek and Yufan Huang. 2026. <a href="https://arxiv.org/pdf/2510.08996">Saving SWE-Bench: A Benchmark Mutation Approach for Realistic Agent Evaluation</a>. In <i>Proceedings of the 5th International Conference on AI Engineering Software Engineering for AI (CAIN'2026)</i>.
+
+Shanchao Liang, <u>Spandan Garg</u>, and Roshanak Zilouchian Moghaddam. 2026. <a href="https://arxiv.org/pdf/2506.12286">The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason</a>. In <i>Proceedings of the 48th International Conference on Software Engineering, Software Engineering in Practice Track (ICSE SEIP'2026)</i>.
 
 <u>Spandan Garg</u>, Roshanak Zilouchian Moghaddam and Neel Sundaresan. 2025. Agentic Approach To Fixing Non-Functional Issues. Filed May 22nd., 2025. Patent Pending.
 
