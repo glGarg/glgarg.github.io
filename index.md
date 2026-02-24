@@ -1,11 +1,11 @@
 # <b>Portfolio</b>
 ## <b><i>Updates</i></b>
 Feb 20, 2026:
- "<b>Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities</b>" In Review! 
+New work: "<b>Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities</b>"
 
 ## <b><i>Patents and Publications</i></b>
 ---
-<u>Spandan Garg</u> and Yufan Huang. 2026. <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/02/cngtkgvhtjjshgbmtcqnsjddkdzdhvyr.pdf">Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities</a>. In Review.
+<u>Spandan Garg</u> and Yufan Huang. 2026. <a href="https://arxiv.org/pdf/2602.18571">Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities</a>. In Review.
 
 <u>Spandan Garg</u>, Benjamin Steenjoek and Yufan Huang. 2026. <a href="https://arxiv.org/pdf/2510.08996">Saving SWE-Bench: A Benchmark Mutation Approach for Realistic Agent Evaluation</a>. In <i>Proceedings of the 5th International Conference on AI Engineering Software Engineering for AI (CAIN'2026)</i>.
 
